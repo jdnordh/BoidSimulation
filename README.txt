@@ -5,7 +5,7 @@
 
 ## How to Run
 
-	build/BoidSimulation
+	build/Boids
 
 Welcome to my assignment! The above steps should build the project. 
 
